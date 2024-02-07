@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.titele{
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: rgb(78, 17, 220);
+    padding: 20px;
+}
+
+.boxes{
+    display: flex;
+    gap: 10px;
+    margin: 10px 10px;
+}
+
+.box{
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(78, 153, 20);
+    border-radius: 10px;
+}
+
+.cards{
+    display: flex;
+    gap: 10px;
+}
+
+.card{
+    width: 33%;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.img1{
+    width: 200px;
+}
+
+.btn{
+    width: 10%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.img2{
+   width: 200px; 
+}
+
+.img3{
+    width: 200px;
+
+}
+
+.btn2{
+    width: 200px;
+
+}
+
+.btn3{
+
+}
+
+.Bunyodbek{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(18, 78, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
